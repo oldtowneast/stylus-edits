@@ -22,8 +22,6 @@
 --nord14: #A3BE8C;
 --nord15: #B48EAD;
 
-
-
 }
 
 div#logo {
@@ -199,20 +197,34 @@ a {
 }
 
 
+/* 
 #edit_bookmark_form textarea {
     font-size: 90%;
-    border: 1px solid #ddd;
+    border: var(--nord04) 1px solid;
     margin-bottom: 3px;
-    background: #3B4252;
+    background: var(--nord01);
 }
 
 
 .edit_form_input {
-    background: red;
+    font-size: 90%;
+    background: var(--nord03);
+    color: var(--nord05);
 }
 
 #edit_bookmark_form_url_field {
-    background: blue;
+    background: var(--nord03);
+    color: var(--nord05);
+}
+*/
+
+/* Tyler was here */
+
+#edit_bookmark_form input {
+    font-size: 1.10em;
+    border: var(--nord05) 1px solid;
+    color: var(--nord05);
+	margin-bottom: 3px;
 }
 
 
@@ -249,8 +261,6 @@ color: var(--nord06);
 
 }
 
-
-
 /* tbody,
 form,
 tr,
@@ -264,18 +274,6 @@ color : var(--nord06);
 font-size: 1.15em;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 input[type=submit] {
     background: linear-gradient(#5E81AC, #81A1C1) !important;
@@ -302,8 +300,6 @@ input[type=submit]:hover {
 
 a.tag {
 color: #8FBCBB !important;
-
-
 }
 
 a.tag.selected {
@@ -368,9 +364,28 @@ td {
     font-weight: 400 !important;
 }
 
+#search_query_field {
+    background: var(--nord05) !important;
+    border-color: var(--nord06);
+    color: var(--nord03);
+}
 
+element {
+	display: inline;
+    color: var(--nord01);
+}
+
+input.submit {
+    color: var(--nord01);
+}
+
+#edit_form_checkboxes {
+    color: var(--nord05);
+}
 
 /* NOTES!!!
+
+div.search_button p label
 
 color: var(--nord06);
 font-family: var(--font-family-empty);
