@@ -1,0 +1,33 @@
+/* septicycl.es x Resistance */
+
+html {
+    color: #02baff;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.past,
+.past-toggle {
+    color: #4595dd;
+}
+
+h4 > a,
+h4 > a:visited,
+h4 > a:active {
+    color: #4595dd;
+    font-weight: normal;
+}
+
+.upcoming {
+    color: #0492d0;
+}
+
+h4 {
+	text-align: center;
+	color: #4595dd;
+	margin-top: 4px;
+}
+
+h4 > a.active {
+	color: #4595dd;
+	font-weight: bold;
+}
