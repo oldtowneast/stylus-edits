@@ -389,32 +389,13 @@ color: var(--nord06);
 font-family: var(--font-family-empty);
 */
 
-/* thanks guys (important for the win)
+/* thanks buddy
 https://github.com/brendanmurty/pinboard-user-style/blob/master/pinboard.css 
-https://userstyles.org/styles/97933/delicious-pinboard
+
 */
 input[type="button"],
 input[type="submit"],
 input[type="reset"] {
-    background-color: var(--nord14) !important;
-    color: #083 !important;
+    background-color: var(--nord08) !important;
+    color: var(--nord005) !important;
 }
-
-/* input[type=submit],input[type=button],input[type=reset]
-{
-  border-radius: 3px;
-  background: #4a8cce!important;
-  color: #fff!important;
-  box-shadow: 0 3px #226fbe;
-  border: none!important;
-  font-family: inherit;
-  cursor: pointer;
-  padding: 9px 15px;
-  display: inline-block;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-  outline: none;
-  position: relative;
-  margin-right: 4px;
-} */
