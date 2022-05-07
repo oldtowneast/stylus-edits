@@ -1,0 +1,13 @@
+.btn-primary:focus, .btn-primary:hover {
+    background-color: #E5E9F0;
+    background-position: 0 -15px;
+}
+.btn-primary:hover {
+    color: #E5E9F0;
+    background-color: #5E81AC;
+    border-color: #81A1C1;
+}
+.btn.focus, .btn:focus, .btn:hover {
+    color: #2E3440;
+    text-decoration: none;
+}

@@ -1,0 +1,32 @@
+/*
+Tyler was here MON, 2020-07-13 01:11
+ */
+
+.bg-white {
+    background-color: #363636!important;
+}
+
+body {
+    font-family: "Input Mono Narrow", monospace;
+}
+
+.post-title a {
+    color: #ececec;
+}
+
+.post-title {
+    font-size: 15px;
+    font-weight: 400;
+    word-break: break-word;
+}
+
+.comment-write.collapsed textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: .5rem .75rem;
+    min-height: 250px;
+}
+
+.comment-write.expanded textarea {
+   min-height: 325px;
+}

@@ -1,0 +1,75 @@
+body {
+    font-family: "Input Mono Narrow", monospace;
+}
+
+.post--main-wrapper[_ngcontent-mmc-c47] .post--main-header[_ngcontent-mmc-c47] .post-info[_ngcontent-mmc-c47] .post-date[_ngcontent-mmc-c47] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #69737e;
+    font-weight: 300;
+    white-space: nowrap;
+    font-size: .9rem;
+}
+
+[_nghost-mmc-c47] .post--main-wrapper[_ngcontent-mmc-c47] .post--main-header[_ngcontent-mmc-c47] .post-info[_ngcontent-mmc-c47] .account-name-lite[_ngcontent-mmc-c47] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #69737e;
+    font-size: 1em;
+    font-weight: 300;
+    white-space: nowrap;
+}
+
+[_nghost-mmc-c47] .post--main-wrapper[_ngcontent-mmc-c47] .post--main-content[_ngcontent-mmc-c47] .post-content[_ngcontent-mmc-c47] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #69737e;
+    font-size: .9rem;
+    font-weight: 300;
+    white-space: wrap;
+    padding-bottom: 15px;
+    word-break: break-word;
+    line-height: 1.4rem;
+}
+
+[_nghost-mmc-c47] .post--main-wrapper[_ngcontent-mmc-c47] .post--main-header[_ngcontent-mmc-c47] .post-info[_ngcontent-mmc-c47] .account-username-lite[_ngcontent-mmc-c47] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #be1e2c;
+    font-size: 1.2em;
+    font-weight: 300;
+    white-space: nowrap;
+    margin-left: 6px;
+}
+
+.mat-button[_ngcontent-mmc-c19], .mat-fab[_ngcontent-mmc-c19], .mat-flat-button[_ngcontent-mmc-c19], .mat-icon-button[_ngcontent-mmc-c19], .mat-mini-fab[_ngcontent-mmc-c19], .mat-raised-button[_ngcontent-mmc-c19], .mat-stroked-button[_ngcontent-mmc-c19] {
+    font-family: "Input Mono Narrow", monospace;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+textarea {
+    border: 1px solid #939598;
+    font-size: 14px;
+    resize: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: "Input Mono Narrow", monospace;
+}
+
+[_nghost-mmc-c71] .post--main-wrapper[_ngcontent-mmc-c71] .post--main-header[_ngcontent-mmc-c71] .post-info[_ngcontent-mmc-c71] .account-name-lite[_ngcontent-mmc-c71] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #69737e;
+    font-size: 1em;
+    font-weight: 300;
+    white-space: nowrap;
+}
+
+[_nghost-mmc-c71] .post--main-wrapper[_ngcontent-mmc-c71] .post--main-header[_ngcontent-mmc-c71] .post-info[_ngcontent-mmc-c71] .account-username-lite[_ngcontent-mmc-c71] {
+    font-family: "Input Mono Narrow", monospace;
+    color: #be1e2c;
+    font-size: 1.2em;
+    font-weight: 300;
+    white-space: nowrap;
+    margin-left: 6px;
+}
+
+p {
+    font-family: "Input Mono Narrow", monospace;
+}
